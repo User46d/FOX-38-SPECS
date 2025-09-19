@@ -3,7 +3,7 @@
 ### <ins>Internet e Navegação</ins>
 <img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/956a6b96-b8a0-45be-8d48-c76e35490ed9" />
 
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 
 > Formadora Rita Soares
 
