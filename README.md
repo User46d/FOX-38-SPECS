@@ -1,8 +1,8 @@
 # UFCD 0767
 
 ### <ins>Internet e Navegação</ins>
+<img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/956a6b96-b8a0-45be-8d48-c76e35490ed9" />
 
-<img width="1024" height="1024" alt="39900a0b-ac86-4e43-9f02-835fbec49e62" src="https://github.com/user-attachments/assets/3f2cb2a9-defd-4978-89eb-14cf59bd7a5b" />
 
 
 > Formadora Rita Soares
