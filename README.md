@@ -2,12 +2,11 @@
 
 ### <ins>Internet e Navegação</ins>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
+```<img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/c189134d-4a79-432f-8ff8-6b60a8a940b5" />
 
 
 > Formadora Rita Soares
-```
+
 - Servidores
 - Alojamento
 - domínos
