@@ -1,4 +1,4 @@
-# <code style="color : red">**UFCD 0767**</code>
+# <code style="color : red">UFCD 0767</code>
 
 ### <ins>Internet e Navegação</ins>
 
