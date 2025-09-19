@@ -2,7 +2,7 @@
 
 ### <ins>Internet e Navegação</ins>
 
-```<img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/c189134d-4a79-432f-8ff8-6b60a8a940b5" />
+<img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/c189134d-4a79-432f-8ff8-6b60a8a940b5" />
 
 
 > Formadora Rita Soares
