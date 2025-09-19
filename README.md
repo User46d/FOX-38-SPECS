@@ -4,10 +4,10 @@
 
 > Formadora Rita Soares
 ```
--Servidores
--Alojamento
--domínos
--servidores publicos
+- Servidores
+- Alojamento
+- domínos
+- servidores publicos
 ```
 
 ## **Servidores**
