@@ -2,6 +2,10 @@
 
 ### <ins>Internet e Navegação</ins>
 
+!https://www.valuehost.com.br/blog/wp-content/uploads/2021/11/valuesoftsistemas_valuehosthospedagem_image_362.jpeg.webp
+
+
+
 > Formadora Rita Soares
 ```
 - Servidores
