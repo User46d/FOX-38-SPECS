@@ -20,7 +20,7 @@ Servidor: um computador com maior capacidade de armazenamento e processamento, q
 Alojamento de páginas: serviço que te oferece um “terreno” para você construir seu site. 
 
 1. Alojamento gratuito/publico: limitado, mas suficiente para coisas básicas e treinos
-   - Alojamento pagos/privados: Mais liberdade de configuração e personalização, hospedado por servidores mais fortes, bom para empresas. 
+   - Alojamento pagos/privados: Mais liberdade de configuração e personalização, hospedado por servidores mais fortes. 
      - Alojamento web: espaço no servidor onde ficam guardados os arquivos
 
 ## **domínio**
