@@ -17,7 +17,7 @@ Servidor: um computador com maior capacidade de armazenamento e processamento, q
 
 ## Alojamento de páginas
 
-### Alojamento de páginas: serviço que te oferece um “terreno” para você construir seu site. 
+Alojamento de páginas: serviço que te oferece um “terreno” para você construir seu site. 
 
 ```
 Alojamento gratuito/publico: limitado, mas suficiente para coisas básicas e treinos. 
@@ -29,8 +29,8 @@ Alojamento web: espaço no servidor onde ficam guardados os arquivos do site
 
 ## **domínio**
 
-### Domínio: é o endereço do seu site, ou seja, sua morada (www.exemplo.com). 
+Domínio: é o endereço do seu site, ou seja, sua morada (www.exemplo.com). 
 
 ## servidores públicos
 
-### Servidores públicos: servidores de acesso público que são mantidos por entidades governamentais e públicas, e tem entrada gratuita ou por um baixo custo.  
+Servidores públicos: servidores de acesso público que são mantidos por entidades governamentais e públicas, e tem entrada gratuita ou por um baixo custo.  
