@@ -13,7 +13,7 @@
 
 ## Servidores
 
-### Servidor: um computador com maior capacidade de armazenamento e processamento, que disponibiliza páginas web e permite a criação de uma rede local para que vários computadores se conectem e compartilhem recursos.
+Servidor: um computador com maior capacidade de armazenamento e processamento, que disponibiliza páginas web e permite a criação de uma rede local para que vários computadores se conectem e compartilhem recursos.
 
 ## Alojamento de páginas
 
