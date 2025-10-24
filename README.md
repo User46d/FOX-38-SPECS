@@ -42,6 +42,11 @@ Passo a passo para instalação da sua FOX
 ```
 https://www.youtube.com/watch?v=wkANO5kzubg
 ```
+LINK MANUAL DE USO
+
+**↓↓↓↓↓↓↓↓↓↓↓**
+
+[Fox38 owners manual.pdf](https://github.com/user-attachments/files/23123626/Fox38.owners.manual.pdf)
 
 ## **Suporte ao cliente.**
 
