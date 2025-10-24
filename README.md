@@ -3,7 +3,7 @@
 ### <ins>Internet e Navegação</ins>
 <img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/956a6b96-b8a0-45be-8d48-c76e35490ed9" />
 
-:+1: This PR looks great - it's ready to merge! :shipit:
+🤠:+1:
 > Formadora Rita Soares
 
 - Servidores
