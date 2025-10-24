@@ -1,4 +1,4 @@
-# TIIGR - Técnico gestão e instalação de redes
+# TIIGR - Técnico gestão e instalação de redes :trollface:
 
 ### <ins>Internet e Navegação</ins>
 <img width="200" height="200" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/956a6b96-b8a0-45be-8d48-c76e35490ed9" />
