@@ -54,3 +54,5 @@ Caso deseje contactar o suporte clique no link abaixo.
 ```
 https://ridefox.com/pages/contact
 ```
+
+> site feito pelo formando João Nunes da turma TIIGR PL 0925
