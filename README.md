@@ -3,30 +3,49 @@
 ### <ins>FOX 38 FACTORY EMTB - GRIP X2</ins>
 ![aa](https://github.com/user-attachments/assets/540ca3fa-f56f-4835-b7e9-ca89d711cc28)
 
-> Formadora Rita Soares
+Número de série 910-21-279
 
-- Servidores
-- Alojamento
-- domínos
-- servidores publicos
+- Tamanho da roda: 29 
+- Travel 170mm
+- Espiga 1.5 cônica
+- Coroa 68HT
+- ano 2025
+- Inclinação 44mm
 
 
-## Servidores
+## o que vem na caixa? 
+```
+--> Porca estrela
+--> Presilha para mangueira de freio
+--> 3 espaçadores de volume
+--> Manual de utilização
+--> Adesivo da FOX 
+```
+## Política de envio e retorno
 
-Servidor: um computador com maior capacidade de armazenamento e processamento, que disponibiliza páginas web e permite a criação de uma rede local para que vários computadores se conectem e compartilhem recursos.
+**Envio:**
+Oferecemos frete padrão grátis para pedidos acima de US$ 99. Oferecemos frete fixo padrão de US$ 10 para pedidos abaixo de US$ 99. Observe que não enviamos para fora dos EUA. 
+Visite nossa FOX Shop no Canadá, Europa ou Austrália para envios internacionais. Normalmente, você receberá um número de rastreamento em até 2 dias úteis após o pedido.
 
-## Alojamento de páginas
+**Troca:**
+Devido à alta demanda por nossos produtos, a maneira mais rápida de garantir a troca de um pedido online pelo produto desejado é adquiri-lo imediatamente no site. 
+Em seguida, preencha o formulário de devolução e, seguindo as instruções da nossa equipe de Atendimento ao Cliente, envie o produto de volta para reembolso. 
+Observe que não reembolsamos o valor do frete e todos os produtos devem ser devolvidos na embalagem original, sem uso.
 
-Alojamento de páginas: serviço que te oferece um “terreno” para você construir seu site. 
+**Devolução:**
+Em até 30 dias após a compra online, a FOX aceitará devoluções de todos os produtos devolvidos com a embalagem original e sem uso.
+Para iniciar a devolução, preencha o formulário de devolução abaixo e aguarde o contato por e-mail da nossa Equipe de Atendimento ao Cliente.
+Observe que os custos de envio não serão reembolsados.
 
-1. Alojamento gratuito/publico: limitado, mas suficiente para coisas básicas e treinos
-   - Alojamento pagos/privados: Mais liberdade de configuração e personalização, hospedado por servidores mais fortes. 
-     - Alojamento web: espaço no servidor onde ficam guardados os arquivos
+## **Instalação do garfo**
+Passo a passo para instalação da sua FOX
+```
+https://www.youtube.com/watch?v=wkANO5kzubg
+```
 
-## **domínio**
+## **Suporte ao cliente.**
 
-Domínio: é o endereço do seu site, ou seja, sua morada (www.exemplo.com). 
-
-## servidores públicos
-
-Servidores públicos: servidores de acesso público que são mantidos por entidades governamentais e públicas, e tem entrada gratuita ou por um baixo custo.  
+Caso deseje contactar o suporte clique no link abaixo.
+```
+https://ridefox.com/pages/contact
+```
